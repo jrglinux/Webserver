@@ -1,3 +1,6 @@
 study git on windows and commit from office
 Is this will be ok?
 2017.9.25
+change the git config --global user.name " "
+change the git config --global user.email " "
+

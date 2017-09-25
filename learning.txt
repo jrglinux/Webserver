@@ -4,3 +4,4 @@ Is this will be ok?
 change the git config --global user.name " "
 change the git config --global user.email " "
 
+why the commit namer is junixnet , I am jrglinux

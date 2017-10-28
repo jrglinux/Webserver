@@ -1,0 +1,7 @@
+This is a simple server, programmed by C code.
+Compile:
+% make V=s
+
+Usage:
+% ./server --address localhost --port 4000
+Then open URL: http://localhost:4000/diskfree in a browser window.

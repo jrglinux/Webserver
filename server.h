@@ -22,6 +22,6 @@ struct server_module{
 extern char* module_dir;
 extern struct server_module* module_open(const char* module_path);
 extern void module_close(struct server_module* module);
-extern void server_run (struct in_addr local_address, unint16_t port);
+extern void server_run (struct in_addr local_address, uint16_t port);
 
 #endif
